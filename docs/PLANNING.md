@@ -45,7 +45,7 @@ We will assume that there is no upper limit to the amount of money that can be d
 As well as managing money, the system must allow transactions between existing accounts. 
 To do this, the user will be prompted:
 ```
-- Dni of the recipient
+- Recipient's Dni
 - Amount of money
 ```
 The system must check that the recipient exists and that there is enough money in the account. 
