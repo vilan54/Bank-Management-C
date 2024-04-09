@@ -9,7 +9,7 @@ Knowing this, we can divide the planning into four aspects:
 - Define what functionalities the bank will have
 - Define how we will store customer data
 - Define how we will secure the information 
-
+***
 ## :computer: Interface
 For this console-based project we will not need a complicated interface, we will use several menus that present options and the user will choose the option by simply entering its number.
 ```
