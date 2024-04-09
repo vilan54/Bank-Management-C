@@ -13,7 +13,7 @@ Knowing this, we can divide the planning into four aspects:
 ## :computer: Interface
 For this console-based project we will not need a complicated interface, we will use several menus that present options and the user will choose the option by simply entering its number.
 
-[Example image of a menu](https://github.com/vilan54/Bank-Management-C/assets/79419009/3d6fd620-b50d-4253-9337-4ab7a850ca4a)
+![Example image of a menu](https://github.com/vilan54/Bank-Management-C/assets/79419009/3d6fd620-b50d-4253-9337-4ab7a850ca4a)
 
 ***
 ## :bookmark_tabs: Functionalities
