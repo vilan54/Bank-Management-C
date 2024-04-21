@@ -51,3 +51,15 @@ To do this, the user will be prompted:
 The system must check that the recipient exists and that there is enough money in the account. 
 It must also save the information of the transaction together with the date and time of the transaction in both users (sender and recipient) and in each one if it was sent or received.
 
+***
+
+### :file_folder: Data storage
+To store customer data the project has a file where I define the types of data to be used.
+In addition, to standardize the personal documents of each client, there is a template in the resources that will be followed when creating these documents.
+
+***
+
+### :lock: Secure the information
+In addition, in order to secure customer information, the name of the previous documents will be a hash of their id so that it will be difficult to identify the document of a specific customer if this measure is not known.
+Also, customer passwords will be hashed to make it impossible to find out by fraudulent methods.
+
