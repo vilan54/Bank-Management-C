@@ -1,0 +1,24 @@
+------USER------
+Id: 1
+Dni: NameSurname
+Password: 123
+Money: 1000
+Birth: 01/01/1111
+NumTransactions: 3
+
+
+------TRANSACTIONS------
+Transaction 1
+    Recipient: 22222222B
+    Amount: +100
+    Date: 02/02/1111
+
+Transaction 2
+    Recipient: 22222222B
+    Amount: -100
+    Date: 03/02/1111
+
+Transaction 3
+    Recipient: 22222222B
+    Amount: -100
+    Date: 03/02/1111
